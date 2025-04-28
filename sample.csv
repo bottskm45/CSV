@@ -1,0 +1,4 @@
+﻿Product,Customer,Sales,Date,Category,Quantity
+ A , Alice , 100.5 , 2025-01-01 , X ,  5
+B, Bob,200,2025-02-02,Y,10
+C , Carol , 150.25 , 2025-03-03 , X , 3
